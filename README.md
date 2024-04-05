@@ -1,4 +1,6 @@
 # VERSÃO 3
+<img src="https://i.pinimg.com/originals/43/b4/0b/43b40b0dfcbaafcc9d0d516b26f34a84.gif" alt="Carro de luxo" width="508px">
+
 # Pesquisa engenharia de requisitos
 **Engenharia de Requisitos**: _É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos_
 ![Tecnologia esta em tudo]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARYMOStmPfLBpEJ9Y46NHHkaLlPDirZaXFQ&usqp=CAU
